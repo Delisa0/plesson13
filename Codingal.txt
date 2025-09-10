@@ -1,2 +1,4 @@
 File in write mode...Hi I am Pengiun, 1 am year old
+I live in Antartica
+I am with mummy Pengiun
  File in append mode...Hi! I am Pengiun, I love to eat fish. 
